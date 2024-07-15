@@ -1,0 +1,1 @@
+# char-and-value.js
